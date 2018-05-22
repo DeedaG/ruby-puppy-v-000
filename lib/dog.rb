@@ -4,8 +4,6 @@ class Dog
 
 attr accessor :puppy
 
-
-
   def initialize()
     @@all<< puppy
   end
