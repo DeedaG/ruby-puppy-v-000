@@ -9,9 +9,8 @@ attr accessor :puppy
   end
 
   def self.all
-    @@all.each do |self| 
+    @@all.each do |self|
       puts self.name
     end
-    
   end
 end
