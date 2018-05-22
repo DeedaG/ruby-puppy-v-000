@@ -8,4 +8,8 @@ attr accessor :puppy
     @@all << self
   end
 
+  def self.all
+
+
+  end
 end
